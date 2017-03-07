@@ -13,16 +13,17 @@
 
 ##三、实验步骤与结果
 1. ！[我复制的他人代码]https://github.com/jessciary
-2. ！https://github.com/hutct/test1
+2. ！[我的第一个实验]https://github.com/hutct/test1
 
 ###生成hexo步骤：
 1. 安装node，安装git
-2. 在网页中打开！[淘宝npm镜像]http://npm.taobao.org/
+2. 在网页中打开http://npm.taobao.org/
 3. 在该网页中复制cnpm命令
 4. 在windows中打开cmd命令提示符，粘贴cnpm命令语句并执行
 5. 使用cd hexo打开hexo目录
 6. 进入该目录后执行cnpm install
 7. 打开终端，执行hexo server
+
 ###![hexo搭建完成]http://localhost:4000/
 
 
