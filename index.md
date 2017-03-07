@@ -17,5 +17,8 @@
 -5.	 利用Hexo生成博客并部署到Github
 
 ##三、实验步骤与结果
+-！https://github.com/jessciary
+
+-！https://github.com/hutct/test1
 
 ##四、实验小结
