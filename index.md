@@ -25,6 +25,21 @@
 7. 打开终端，执行hexo server
 
 ###![hexo搭建完成]http://localhost:4000/
-
-
+###hexo+github搭建博客
+1. 打开blog/_config.yml文件，进行配置，
+deploy:
+  type: git
+  repository: git@github.com:jessciary/jessciary.github.io.git
+branch: master
+2. 输入创建文章命令，生成一个md文件(/blog/source/_posts/)
+hexo new "test"
+打开hello.md文件,编写完后保存
+3. 设置git身份信息
+git config --global user.name "jessciary"
+git config --global user.name "10254116623@qq.com"
+4. 安装hexo git插件
+cnpm install hexo-deployer-git --save
+5. 发布更新博客
+ hexo d -g
+ 
 ##四、实验小结
