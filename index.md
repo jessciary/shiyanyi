@@ -46,6 +46,6 @@
 5. 发布更新博客
  hexo d -g
  
-####！[我的博客主页]https://jessciary.github.io/
+####![我的博客主页]https://jessciary.github.io/
  
 ##四、实验小结
