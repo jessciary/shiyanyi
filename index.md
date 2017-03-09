@@ -26,13 +26,13 @@
 ####hexo搭建完成
 
 ###hexo+github搭建博客步骤：
-1. 打开blog/_config.yml文件，进行配置
+1. 打开blog/_config.yml文件，进行如下配置
  deploy:
-  type: git
-  repository: git@github.com:jessciary/jessciary.github.io.git
+  type: git
+  repository: git@github.com:jessciary/jessciary.github.io.git
  branch: master
 
-2. 输入创建文章命令，生成一个md文件(/blog/source/_posts/)
+2. 输入创建文章命令，生成一个md文件(/hexo/source/_posts/)
  hexo new "test"
  打开hello.md文件,编写完后保存
 
