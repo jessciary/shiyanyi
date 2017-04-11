@@ -109,3 +109,6 @@ $ clip < ~/.ssh/id_rsa.pub
 
 ### 3.若出现如下错误：spawn git ENOENT
 是由未添加Git环境变量引起，添加Git与git管理库的环境变量即可
+
+  
+厉害了
